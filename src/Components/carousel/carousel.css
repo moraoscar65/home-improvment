@@ -1,0 +1,25 @@
+.item-carousel {
+    padding: 0 12em;
+}
+.image-below{
+    padding: 3em 0;
+    /* display: flex; */
+   
+}
+.single-image{
+    padding: 5px 1em;
+}
+.image-container{
+    
+    padding: 8em;
+}
+.carousel-container{
+    background-color: white;
+}
+
+.prev-icon, .next-icon{
+    color: black;
+}
+.icon-size{
+    font-size: 1em;
+}
